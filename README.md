@@ -6,7 +6,7 @@ Next.js - Symfony
 
 ---
 
-[Repository Front-End](https://github.com/MaximeTheneau/MaximeTheneau-Portfolio-Front)
+[Repository Front-End](https://github.com/MaximeTheneau/MaximeTheneau-Portfolio-Next)
 
 [Repository Back-End](https://github.com/MaximeTheneau/MaximeTheneau-Portfolio-back)
 
