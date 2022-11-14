@@ -14,7 +14,7 @@ Next.js - Symfony
 
 ### Wireframe
 
-[![Wireframe](/docs/wireframes/home.mobile.png)](/docs/)
+[![Wireframe](/docs/wireframes/tablet-home.jpg)](/docs/)
 
 ## Langages utilisés 
 
