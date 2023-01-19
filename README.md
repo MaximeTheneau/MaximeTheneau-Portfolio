@@ -1,6 +1,6 @@
 # MaximeTheneau-Portfolio
 
-Portfolio Maxime Theneau
+Portfolio Maxime Theneau réalisé avec Next.js et Symfony. Des temps de chargement rapides et une meilleure référencement pour les moteurs de recherche.
 
 Next.js - Symfony
 
